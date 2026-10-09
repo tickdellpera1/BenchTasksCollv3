@@ -1,4 +1,4 @@
-# Evaluation script for activity-logger
+# Evaluation script for alert-system
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
